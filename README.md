@@ -23,5 +23,5 @@ this pipeline uses:
 
 # Getting Started
 Prerequisites: 
-Snort installed and configured on the network.
-Filebeat, Logstash, Elasticsearch, and Kibana installed.
+- Snort installed and configured on the network.
+- Filebeat, Logstash, Elasticsearch, and Kibana installed.
