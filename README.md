@@ -7,7 +7,7 @@
    - **Logstash** - Processes and parses data to prepare it for Elasticsearch.
    - **Elasticsearch** - Stores and indexes logs for fast searching.
    - **Kibana** - Visualizes data and provides dashboards for threat analysis.
-![archetecture](https://github.com/user-attachments/assets/c66879cf-3ec4-437d-8df9-e452f6c828f3)
+![archetecture(1)](https://github.com/user-attachments/assets/42cd9947-1215-40c7-a736-98b15b2c863c)
 
 ## Key Features
   - **Event Monitoring**: Track security events and analyze trends.
