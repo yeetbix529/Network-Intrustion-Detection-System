@@ -12,11 +12,7 @@
 
 ## Key Features
   - **Event Monitoring**: Track security events and analyze trends.
-  - **Traffic Flow Analysis**: Visualize inbound and outbound network traffic.
-  - **Source/Destination Analysis**: Identify IPs associated with suspicious activities.
-  - **Protocol Insights**: Understand network usage and spot unusual protocol behavior.
-  - **Alerting**: Real-time alerts based on Snort's detections.
-  - **Performance Metrics**: Dashboards to monitor system health and performance.
+  - 
 
 ## Example Dashboards
   - **Event Monitoring Dashboard**: Provides an overview of security events over time.
