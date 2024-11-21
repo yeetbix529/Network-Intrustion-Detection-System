@@ -8,15 +8,15 @@
    - **Elasticsearch** - Stores and indexes logs for fast searching.
    - **Kibana** - Visualizes data and provides dashboards for threat analysis.
      
-![archetecture(2)](https://github.com/user-attachments/assets/881f2711-4ac7-4119-9dde-1cfbe1b4b082)
+  ![overview_dashboard](https://github.com/user-attachments/assets/0c812dca-b26c-4ebc-a0c8-58a498177239)
 
 ## Key Features
   - **Event Monitoring**: Track security events and analyze trends.
-    
+  ![eventMonitoring_dashboard](https://github.com/user-attachments/assets/facc8d5f-efd9-4b5a-bc7b-a19bf0d689aa)
 
-## Example Dashboards
-  - **Event Monitoring Dashboard**: Provides an overview of security events over time.
-    ![eventMonitoring_dashboard](https://github.com/user-attachments/assets/991d5f22-a459-49b1-aba1-34c3a6725c0d)
 
 ## Project Timeline
   ![Project Timeline](https://github.com/user-attachments/assets/07e472ba-aa5f-4ede-ba52-ec706574f1e2)
+
+## Architecture
+  ![archetecture(2)](https://github.com/user-attachments/assets/881f2711-4ac7-4119-9dde-1cfbe1b4b082)
