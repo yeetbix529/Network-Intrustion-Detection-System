@@ -13,7 +13,9 @@
   ![overview_dashboard](https://github.com/user-attachments/assets/0c812dca-b26c-4ebc-a0c8-58a498177239)
 
 ## Project Timeline
-  ![Project Timeline](https://github.com/user-attachments/assets/07e472ba-aa5f-4ede-ba52-ec706574f1e2)
+  ![new_timeline](https://github.com/user-attachments/assets/71f7c23a-76cc-48ba-bf93-3f110d44e76c)
+
+
 
 ## Architecture
   ![archetecture(2)](https://github.com/user-attachments/assets/881f2711-4ac7-4119-9dde-1cfbe1b4b082)
